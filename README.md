@@ -46,8 +46,11 @@ obsr-cli masternode status
 Also, if you want to check/start/stop **Observer** , run one of the following commands as **root**:
 
 systemctl status Observer #To check the service is running.
+
 systemctl start Observer #To start Observer service.
+
 systemctl stop Observer #To stop Observer service.
+
 systemctl is-enabled Observer #To check whether Observer service is enabled on boot or not.
 
 ***
