@@ -41,6 +41,7 @@ Alias Address Genkey TxHash Output_index
 ## Usage:
 
 obsr-cli getinfo
+
 obsr-cli masternode status
 
 Also, if you want to check/start/stop **Observer** , run one of the following commands as **root**:
