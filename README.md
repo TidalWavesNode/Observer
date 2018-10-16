@@ -7,6 +7,7 @@ This will require a VPS running Ubuntu 16.04 or higher and installs **Observer C
 Log into the server using ssh (Putty for windows or terminal for Mac users) and run the following commands:
 
 wget -q https://raw.githubusercontent.com/TidalWavesNode/Observer/master/auto.sh
+
 bash auto.sh
 
 ***
